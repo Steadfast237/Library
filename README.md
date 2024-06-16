@@ -4,7 +4,7 @@ A simple web-based library management system that allows users to add, view, upd
 
 ## Live Demo
 
-Check out the live version of the project [here](https://github.com/Steadfast237/Library).
+Check out the live version of the project [here](https://steadfast237.github.io/Library/).
 
 ## Features
 
